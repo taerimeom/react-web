@@ -9,7 +9,7 @@ const Navbar = ({toggle}) => {
     <>
       <Nav>
         <NavbarContainer>
-          <NavLogo to='/'>dolla</NavLogo>
+          <NavLogo to='/'>WAVES</NavLogo>
           <MobileIcon onClick={toggle}>
             <FaBars />
           </MobileIcon>
